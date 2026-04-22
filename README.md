@@ -2,7 +2,7 @@
 
 ### Software Engineering Student · Cybersecurity Enthusiast · Builder
 
-I'm a Software Engineering student at **Erciyes University** who believes the best way to learn is by **building things that actually work** — not by getting stuck in tutorial hell.
+I'm a 4th-semester Software Engineering student at **Erciyes University** who believes the best way to learn is by **building things that actually work** — not by getting stuck in tutorial hell.
 
 ---
 
@@ -12,24 +12,27 @@ I'm a Software Engineering student at **Erciyes University** who believes the be
 - 💻 I write code in **Java**, **Python**, and **C#**
 - 🔐 Exploring **cybersecurity** — penetration testing, web security, and reverse engineering
 - 🐧 Comfortable in **Linux** (Ubuntu, Kali) and Windows environments
-- 🎯 **Open to internship opportunities** — especially in software engineering, cybersecurity, or international exchange programs
-- 💡 My rule: if I want to learn something, I dive straight into building a real project instead of passively watching guides
+- 💡 I code because I enjoy solving problems
+- 📚 Project-based learner — if I want to learn something, I build with it instead of watching tutorials
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Cybersecurity**
+
 ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Penetration%20Testing-FF6633?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FF6633?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge)
 
 **Systems & Tools**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,10 +40,26 @@ I'm a Software Engineering student at **Erciyes University** who believes the be
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🎮 [Math Defense: The Box Sorter](https://github.com/Shafiqullah-Qaweem/Math-Defense-Java)
-A fast-paced educational arithmetic game built in pure Java with Swing — drag and drop falling numbers into boxes to hit exact target sums. Features dynamic difficulty scaling, boss waves, and a custom look-ahead validation engine.
+A fast-paced educational arithmetic game built in pure Java with Swing. Features dynamic difficulty scaling, boss waves, and a custom look-ahead validation engine that prevents unsolvable game states. Built with one teammate — most of the core logic is mine.
+
+**Tech:** Java · Java Swing · AWT · Custom Game Loop
+
+---
+
+### 🌐 [Mini Social Network](https://github.com/Shafiqullah-Qaweem/Mini-Social-Network)
+A console-based social network in Java demonstrating real Data Structures & Algorithms concepts — graphs for friendships, priority queues for news feed, hash tables for user lookup, and mutual-friend scoring for recommendations. Built as a team of two with my friend Yusuf Levent.
+
+**Tech:** Java · Graphs · Priority Queues · Hash Tables · CLI
+
+---
+
+### ♟️ [Chess Game with AI Bot](https://github.com/Sude-Kaya/chessgame-project)
+A Python chess game featuring an AI opponent, built collaboratively with a 6-person team over several months (132 commits). My contribution focused on the core logic layer — designing the 8×8 board matrix representation and building the game state tracking system (turn order, move history, captured pieces).
+
+**Tech:** Python · Pygame · Team Collaboration
 
 ---
 
@@ -54,16 +73,15 @@ A fast-paced educational arithmetic game built in pure Java with Swing — drag 
 
 ## 💭 My Learning Philosophy
 
-> *"Tutorial hell is the graveyard of curiosity. If you want to learn something, build something with it."*
+> *"Mistakes are the real teacher. Not videos. Not theory. Actual mistakes in your own code, when nothing works and you have to figure out why."*
 
-I believe real skill comes from **breaking things, fixing them, and understanding why they broke.** Every project on this profile started as a problem I wanted to solve, not a guide I wanted to finish.
+I believe real skill comes from building, breaking, and understanding why things break. Every project on this profile started as a problem I wanted to solve — not a tutorial I wanted to finish.
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shafiqullah-qaweem/
-- 📧 **Email:** shafiqullah.qaweem2132@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/shafiqullah-qaweem](https://www.linkedin.com/in/shafiqullah-qaweem/)
 - 🏫 **Erciyes University** — Software Engineering
 
 ---
