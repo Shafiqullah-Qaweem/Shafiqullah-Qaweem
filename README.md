@@ -2,7 +2,7 @@
 
 ### Software Engineering Student · Cybersecurity Enthusiast · Builder
 
-I'm a 4th-semester Software Engineering student at **Erciyes University** who believes the best way to learn is by **building things that actually work** — not by getting stuck in tutorial hell.
+I'm a Software Engineering student at **Erciyes University** who believes the best way to learn is by **building things that actually work** — not by getting stuck in tutorial hell.
 
 ---
 
